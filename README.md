@@ -1,6 +1,6 @@
 ### Screenshot
 
-![](images/tindog_preview,jpg)
+![](tindog_preview,jpg)
 
 ### Built with
 
