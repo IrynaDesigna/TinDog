@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://web-designa.github.io/TinDog/)
+- [Live Site URL: ](https://irynadesigna.github.io/TinDog/)
 
 ### Built with
 
